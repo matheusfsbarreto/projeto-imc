@@ -20,4 +20,5 @@ Por exemplo, se você inserir um peso de 70 kg e uma altura de 1,75 m, o cálcul
 IMC = peso / (altura * altura)
 IMC = 70 / (1.75 * 1.75)
 IMC ≈ 22.857
+![Captura de Tela da Calculadora de IMC](https://i.imgur.com/Px58oey.png)
 
